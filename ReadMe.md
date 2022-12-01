@@ -1,4 +1,4 @@
-# Rocketoons
+# React Native Rocketoons
 
 Rocketoons is an application mobile, inspired by the webtoons that was built to make it easier for comic fans or readers where not just readers where not just reading comics but users can make their own comics.
 
@@ -32,7 +32,7 @@ Make sure all of these are properly installed in your system.
 First, clone this repository into your system.
 
 ```
-git clone https://github.com/nurmuhamadrum/rocketoons.git
+git clone https://github.com/nurmuhamadrum/react-native-rocketoons.git
 ```
 
 Then, install all the packages that described in `package.json`.
